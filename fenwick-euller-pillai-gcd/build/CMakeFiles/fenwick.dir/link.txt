@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/fenwick.dir/main.cpp.o  -o fenwick 
