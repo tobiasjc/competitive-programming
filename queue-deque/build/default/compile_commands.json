@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/josetobias/eclipse-workspace/queue-deque/build/default",
+  "command": "/usr/bin/c++    -O3 -DNDEBUG   -o CMakeFiles/queue-deque.dir/main.cpp.o -c /home/josetobias/eclipse-workspace/queue-deque/main.cpp",
+  "file": "/home/josetobias/eclipse-workspace/queue-deque/main.cpp"
+}
+]

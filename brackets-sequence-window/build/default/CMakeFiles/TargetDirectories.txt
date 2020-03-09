@@ -1,0 +1,3 @@
+/home/josetobias/eclipse-workspace/brackets-sequence-window/build/default/CMakeFiles/rebuild_cache.dir
+/home/josetobias/eclipse-workspace/brackets-sequence-window/build/default/CMakeFiles/brackets-sequence-window.dir
+/home/josetobias/eclipse-workspace/brackets-sequence-window/build/default/CMakeFiles/edit_cache.dir

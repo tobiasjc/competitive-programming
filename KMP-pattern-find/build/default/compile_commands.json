@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/josetobias/eclipse-workspace/KMP-pattern-find/build/default",
+  "command": "/usr/bin/c++    -O3 -DNDEBUG   -o CMakeFiles/KMP-pattern-find.dir/main.cpp.o -c /home/josetobias/eclipse-workspace/KMP-pattern-find/main.cpp",
+  "file": "/home/josetobias/eclipse-workspace/KMP-pattern-find/main.cpp"
+}
+]

@@ -1,0 +1,8 @@
+# ninja log v5
+0	157	1583651381556465220	CMakeFiles/brackets-sequence-window.dir/brackets-sequence-window.cpp.o	2926f73d2d1f3009
+157	203	1583651381604464061	brackets-sequence-window	39154c35b55bbf3b
+0	23	1583651438395089209	build.ninja	5cf17c10f557b35f
+0	161	1583651438555085326	CMakeFiles/brackets-sequence-window.dir/main.cpp.o	1f3e4264a058bb0f
+161	209	1583651438603084160	brackets-sequence-window	ffb54aa646beafcf
+0	179	1583697273349320943	CMakeFiles/brackets-sequence-window.dir/main.cpp.o	1f3e4264a058bb0f
+180	236	1583697273405319459	brackets-sequence-window	ffb54aa646beafcf

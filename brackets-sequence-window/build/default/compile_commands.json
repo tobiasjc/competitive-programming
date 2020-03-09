@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/josetobias/eclipse-workspace/brackets-sequence-window/build/default",
+  "command": "/usr/bin/c++    -O3 -DNDEBUG   -o CMakeFiles/brackets-sequence-window.dir/main.cpp.o -c /home/josetobias/eclipse-workspace/brackets-sequence-window/main.cpp",
+  "file": "/home/josetobias/eclipse-workspace/brackets-sequence-window/main.cpp"
+}
+]
