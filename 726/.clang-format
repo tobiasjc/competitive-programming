@@ -1,0 +1,23 @@
+# We'll use defaults from the LLVM style
+BasedOnStyle: LLVM
+IndentWidth: 8
+---
+Language: Cpp
+DerivePointerAlignment: false
+PointerAlignment: Left
+AllowShortBlocksOnASingleLine: true
+AllowShortFunctionsOnASingleLine: All
+AllowShortIfStatementsOnASingleLine: WithoutElse
+AllowShortLoopsOnASingleLine: true
+Cpp11BracedListStyle: true
+BreakBeforeBraces: Linux
+ColumnLimit: 180
+---
+Language: JavaScript
+ColumnLimit: 100
+---
+Language: Proto
+DisableFormat: true
+---
+Language: CSharp
+ColumnLimit: 100
